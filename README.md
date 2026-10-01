@@ -229,6 +229,10 @@ Add a license of your choice, for example MIT, as a `LICENSE` file in the reposi
 
 **Your Name**
 GitHub: [@YOUR-USERNAME](https://github.com/YOUR-USERNAME) | LinkedIn: add your link
+Application snapshot <img width="1812" height="902" alt="Screenshot 2026-10-01 155110" src="https://github.com/user-attachments/assets/b3198d55-2ca8-4b0e-b5d2-235ae49b2bf7" />
+Application snapshot <img width="1783" height="451" alt="Screenshot 2026-10-01 155139" src="https://github.com/user-attachments/assets/b9f11ad4-2c4b-45da-8f9b-26f44fb990ce" />
+
+
 
 ## Acknowledgements
 
